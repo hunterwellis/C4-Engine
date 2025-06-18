@@ -6,8 +6,8 @@ A connect 4 engine written in C++, using traditional AI methods -- with a Qt fro
 ## Intallation
 Build the application with CMake.
 ```
-git clone https://github.com/hunterwellis/C4-Solver.git
-cd C4-Solver
+git clone https://github.com/hunterwellis/C4-Engine.git
+cd C4-Engine
 mkdir build && cd build
 cmake ..
 make

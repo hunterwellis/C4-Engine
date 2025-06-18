@@ -2,6 +2,7 @@
 #define QT_ENGINE_HPP_
 
 #include <stdint.h>
+#include <iostream>
 #include <QWidget>
 #include <QGraphicsScene>
 #include <QVector>
